@@ -1121,7 +1121,7 @@
   "days_affix_other": "days",
   "exclusive_network_warning": "You have one exclusive network selected under Network preferences",
   "low_soc_warning": "In your settings, you are leaving with less than 15% charge",
-  "high_ref_consumption_warning": "You have set a reference consumption of your car above {{ref_consumtion}} Wh/km",
+  "high_ref_consumption_warning": "You have set a reference consumption of your car above {{ref_consumption}}",
   "high_battery_degradation_warning": "You have set a very high battery degradation",
   "high_arrival_soc_perc_warning": "You have set a high value for 'Destination arrival SOC' in settings",
   "low_charger_max_soc_perc_warning": "You have set a low value for 'Charger max SOC' in settings",
