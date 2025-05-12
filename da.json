@@ -1039,7 +1039,7 @@
   "destcharger_not_included_in_time": "Destinationsopladere (Niveau 2) er ikke inkluderet i den samlede rejsetid eller den samlede opladningstid, da vi antager, at du gør noget andet under opladningen.",
   "exclusive_network_warning": "Du har ét eksklusivt netværk valgt under Netværkspræferencer",
   "low_soc_warning": "I dine indstillinger forlader du med mindre end 15 % SoC",
-  "high_ref_consumption_warning": "Du har indstillet et referenceforbrug for din bil over {{ref_consumtion}} Wh/km",
+  "high_ref_consumption_warning": "Du har indstillet et referenceforbrug for din bil over {{ref_consumption}}",
   "high_battery_degradation_warning": "Du har indstillet en meget høj batterinedbrydning",
   "high_arrival_soc_perc_warning": "Du har indstillet en høj værdi for 'Destination ankomst SOC' i indstillinger",
   "low_charger_max_soc_perc_warning": "Du har indstillet en lav værdi for 'Oplader max SOC' i indstillingerne",
